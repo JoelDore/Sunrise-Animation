@@ -4,4 +4,4 @@ controlled by moving mouse left-right (left for daytime, right for nighttime)
 
 ### Screenshot:
 
-![Screenshot](Assets/Images/SunriseRecording.gif)
+![Screenshot](Assets/Images/sunrise-demo.gif)
